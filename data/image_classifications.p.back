@@ -1,0 +1,478 @@
+(lp1
+S'scv'
+p2
+aS'drone'
+p3
+aS'overlord'
+p4
+aS'probe'
+p5
+aS'marine'
+p6
+aS'larva'
+p7
+aS'queen'
+p8
+aS'zergling'
+p9
+aS'stalker'
+p10
+aS'marauder'
+p11
+aS'mule'
+p12
+aS'zealot'
+p13
+aS'marine'
+p14
+aS'scv'
+p15
+aS'observer'
+p16
+aS'tank'
+p17
+aS'medivac'
+p18
+aS'probe'
+p19
+aS'sentry'
+p20
+aS'roach'
+p21
+aS'tank'
+p22
+aS'colossus'
+p23
+aS'depot'
+p24
+aS'hellion'
+p25
+aS'drone'
+p26
+aS'viking'
+p27
+aS'viking'
+p28
+aS'immortal'
+p29
+aS'barracks'
+p30
+aS'overseer'
+p31
+aS'depot'
+p32
+aS'command center'
+p33
+aS'zergling'
+p34
+aS'mule'
+p35
+aS'gateway'
+p36
+aS'hatchery'
+p37
+aS'medivac'
+p38
+aS'gateway'
+p39
+aS'pylon'
+p40
+aS'barracks'
+p41
+aS'mutalisk'
+p42
+aS'pylon'
+p43
+aS'hatchery'
+p44
+aS'marauder'
+p45
+aS'banshee'
+p46
+aS'overlord'
+p47
+aS'stim'
+p48
+aS'reactor'
+p49
+aS'refinery'
+p50
+aS'factory'
+p51
+aS'command center'
+p52
+aS'infantry weapons 1'
+p53
+aS'queen'
+p54
+aS'colossus'
+p55
+aS'infantry armory 2'
+p56
+aS'warp gate research'
+p57
+aS'warp gate research'
+p58
+aS'infantry weapons 2'
+p59
+aS'immortal'
+p60
+aS'infestor'
+p61
+aS'metabolic boost'
+p62
+aS'infantry armor 1'
+p63
+aS'nexus'
+p64
+aS'orbital command upgrade'
+p65
+aS'extractor'
+p66
+aS'tech lab'
+p67
+aS'zealot'
+p68
+aS'archon'
+p69
+aS'corruptor'
+p70
+aS'spine crawler'
+p71
+aS'stim'
+p72
+aS'mutalisk'
+p73
+aS'stalker'
+p74
+aS'melee attack 1'
+p75
+aS'combat shields'
+p76
+aS'reaper'
+p77
+aS'extractor'
+p78
+aS'assimilator'
+p79
+aS'starport'
+p80
+aS'baneling'
+p81
+aS'lair'
+p82
+aS'ground carapace 1'
+p83
+aS'spawning pool'
+p84
+aS'reactor'
+p85
+aS'assimilator'
+p86
+aS'phoenix'
+p87
+aS'orbital command upgrade'
+p88
+aS'metabolic boost'
+p89
+aS'spawning pool'
+p90
+aS'infantry weapons 1'
+p91
+aS'hydralisk'
+p92
+aS'nexus'
+p93
+aS'creep tumor'
+p94
+aS'refinery'
+p95
+aS'lair'
+p96
+aS'turret'
+p97
+aS'roach'
+p98
+aS'ground weapons 3'
+p99
+aS'reaper'
+p100
+aS'factory'
+p101
+aS'armory'
+p102
+aS'missile attack 1'
+p103
+aS'spine crawler'
+p104
+aS'melee attack 1'
+p105
+aS'inantry armor 1'
+p106
+aS'robotics facility'
+p107
+aS'sentry'
+p108
+aS'charge'
+p109
+aS'ground carapace 2'
+p110
+aS'brood lord'
+p111
+aS'vehicle weapons 1'
+p112
+aS'infantry weapons 3'
+p113
+aS'cybernetics core'
+p114
+aS'observer'
+p115
+aS'photon cannon'
+p116
+aS'blink'
+p117
+aS'engineering bay'
+p118
+aS'combat shields'
+p119
+aS'ground weapons 1'
+p120
+aS'ground amor 1'
+p121
+aS'cybernetics core'
+p122
+aS'ground weapons 1'
+p123
+aS'tech lab'
+p124
+aS'spire'
+p125
+aS'ground carapace 1'
+p126
+aS'photon cannon'
+p127
+aS'vehicle weapons 2'
+p128
+aS'group weapons 2'
+p129
+aS'starport'
+p130
+aS'warp prism'
+p131
+aS'engineering bay'
+p132
+aS'glial reconstitution'
+p133
+aS'extended thermal lance'
+p134
+aS'extended thermal lance'
+p135
+aS'spore crawler'
+p136
+aS'twilight council'
+p137
+aS'ground armor level 2'
+p138
+aS'missile attack 1'
+p139
+aS'melee attack 2'
+p140
+aS'ground weapons 2'
+p141
+aS'roach warren'
+p142
+aS'evolution chamber'
+p143
+aS'cloak'
+p144
+aS'hive'
+p145
+aS'robotics facility'
+p146
+aS'ship weapons 1'
+p147
+aS'dark templar'
+p148
+aS'evolution chamber'
+p149
+aS'bunker'
+p150
+aS'burrow'
+p151
+aS'blink'
+p152
+aS'planetary fortress'
+p153
+aS'vehicle plating 1'
+p154
+aS'flyer attacks 1'
+p155
+aS'raven'
+p156
+aS'concussive shells'
+p157
+aS'creep tumor'
+p158
+aS'twilight council'
+p159
+aS'forge'
+p160
+aS'forge'
+p161
+aS'centrifugal hooks'
+p162
+aS'robotics bay'
+p163
+aS'roach warren'
+p164
+aS'glial reconstitution'
+p165
+aS'melee attack 2'
+p166
+aS'centrifugal hooks'
+p167
+aS'void ray'
+p168
+aS'templar archives'
+p169
+aS'infantry armor 3'
+p170
+aS'missile attack 2'
+p171
+aS'ground carapace 3'
+p172
+aS'ship weapons 2'
+p173
+aS'spire'
+p174
+aS'infantry weapons 3'
+p175
+aS'infernal pre-igniter'
+p176
+aS'robotic bay'
+p177
+aS'baneling cocoon'
+p178
+aS'vehicle weapons 3'
+p179
+aS'missile attack 2'
+p180
+aS'infantry armor 3'
+p181
+aS'flyer carapace 1'
+p182
+aS'burrow'
+p183
+aS'ground armor 3'
+p184
+aS'infestation pit'
+p185
+aS'infantry weapons 2'
+p186
+aS'ship weapons 3'
+p187
+aS'infantry armor 2'
+p188
+aS'vehicle plating 2'
+p189
+aS'infestor'
+p190
+aS'charge'
+p191
+aS'hi-sec auto tracking'
+p192
+aS'building armor'
+p193
+aS'pathogen glands'
+p194
+aS'infestation pit'
+p195
+aS'dark shrine'
+p196
+aS'infested terran'
+p197
+aS'flyer carapace 1'
+p198
+aS'adrenal glands'
+p199
+aS'ship weapons 1'
+p200
+aS'ground armor 1'
+p201
+aS'ground carapace 2'
+p202
+aS'vehicle weapons 1'
+p203
+aS'flyer attack 1'
+p204
+aS'brood lord cocoon'
+p205
+aS'corruptor'
+p206
+aS'spore crawler'
+p207
+aS'overseer cocoon'
+p208
+aS'concussive shells'
+p209
+aS'neural parasite'
+p210
+aS'greater spire'
+p211
+aS'pathogen glands'
+p212
+aS'tunneling claws'
+p213
+aS'armory'
+p214
+aS'fusion core'
+p215
+aS'baneling nest'
+p216
+aS'baneling nest'
+p217
+aS'baenling'
+p218
+aS'dark shrine'
+p219
+aS'greater spire'
+p220
+aS'hive'
+p221
+aS'bunker'
+p222
+aS'storm'
+p223
+aS'moebius reactor'
+p224
+aS'templar archives'
+p225
+aS'pathogen glands'
+p226
+aS'hydralisk den'
+p227
+aS'shields 1'
+p228
+aS'ultralisk cavern'
+p229
+aS'pneumatized carapace'
+p230
+aS'stargate'
+p231
+aS'turret'
+p232
+aS'ultralisk'
+p233
+aS'ghost academy'
+p234
+aS'archon'
+p235
+aS'overseer'
+p236
+aS'brood lord'
+p237
+aS'sensor tower'
+p238
+aS'dark templar'
+p239
+a.
