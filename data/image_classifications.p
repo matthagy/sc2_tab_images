@@ -503,4 +503,8 @@ aS'behemoth reactor'
 p252
 aS'fusion core'
 p253
+aS'missile attack 3'
+p254
+aS'grooved spines'
+p255
 a.
