@@ -53,9 +53,13 @@ print 'score', np.mean(acc)
 
 plt.figure(1)
 plt.clf()
-plt.hist(np.concatenate(acc_correct), color='b', alpha=0.5, log=True)
-plt.hist(np.concatenate(acc_incorrect), color='r', alpha=0.5, log=True)
+plt.hist(np.concatenate(acc_correct), color='b', alpha=0.5, log=True, label='Correct')
+plt.hist(np.concatenate(acc_incorrect), color='r', alpha=0.5, log=True, label='Incorrect')
+plt.legend(loc='upper left', title='Classification')
+plt.xlabel('Confidence in Prediction')
+plt.ylabel('Count')
 plt.yscale('log')
+plt.savefig('confidance.png', bbox_inches='tight')
 plt.draw()
 plt.show()
 
@@ -76,3 +80,7 @@ if 0:
 rf = RandomForestClassifier(n_estimators=100, verbose=3, oob_score=True, compute_importances=True)
 rf.fit(X, Y)
 print 'oob score', rf.oob_score_
+
+with open('rf_digits.p', 'w') as fp:
+    pickle.dump(rf, fp)
+

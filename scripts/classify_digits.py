@@ -11,9 +11,10 @@ from collections import defaultdict
 import numpy as np
 import matplotlib.pyplot as plt
 
+from autopath import datadir
 
-classification_path = 'classify_digits.npy'
-digits_path = 'digits.npz'
+digits_path = os.path.join(datadir, 'digits.npz')
+classification_path = os.path.join(datadir, 'digits_classifications.npy')
 
 
 def main():
